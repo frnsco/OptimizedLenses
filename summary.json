@@ -1,0 +1,26 @@
+[
+  {
+    "model": "Qwen/Qwen3-0.6B-Base",
+    "stem": "qwen3-0.6b-base",
+    "docs": 100,
+    "secs": 222.9,
+    "med_s_doc": 1.93,
+    "top10_early": 87.0,
+    "top10_mid": 91.5,
+    "top10_late": 97.6,
+    "min_cos": 0.9959,
+    "med_cos": 0.9987
+  },
+  {
+    "model": "Qwen/Qwen3-1.7B-Base",
+    "stem": "qwen3-1.7b-base",
+    "docs": 100,
+    "secs": 773.1,
+    "med_s_doc": 7.34,
+    "top10_early": 87.8,
+    "top10_mid": 92.4,
+    "top10_late": 97.9,
+    "min_cos": 0.9956,
+    "med_cos": 0.9989
+  }
+]
